@@ -1,6 +1,6 @@
-# 🩺 Health Advice System — Phase 1 (SWE485 Project)
+#  Health Advice System — Phase 1 (SWE485 Project)
 
-## 👥 Group Members
+##  Group Members
 | Name | Student ID |
 |------|-------------|
 | Waleed badkhin | 443105590 |
@@ -10,12 +10,12 @@
 
 ---
 
-## 📘 Project Title
+##  Project Title
 **Health Advice System**
 
 ---
 
-## 💡 Motivation (Why this problem/dataset?)  
+##  Motivation (Why this problem/dataset?)  
 Many people experience symptoms but struggle to understand what condition they might have or which type of doctor they should visit.  
 This project aims to build a **Health Advice System** that can predict the possible **disease (prognosis)** based on a combination of symptoms reported by a patient.
 
@@ -29,7 +29,7 @@ This dataset allows the team to:
 
 ---
 
-## 📊 Dataset Source
+##  Dataset Source
 Kaggle: [Disease Symptoms and Patient Profile Dataset](https://www.kaggle.com/datasets/kaushil268/disease-prediction-using-machine-learning)
 
 ---
